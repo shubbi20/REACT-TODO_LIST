@@ -9,7 +9,8 @@ this is a react todo app,You can create to-do lists where you can add list of ta
 * JavaScript,CSS
 
 
-##ScreenShots
+## ScreenShots
+
 ![](https://github.com/shubbi20/REACT-TODO_LIST/blob/main/src/images/todo_desktop.JPG)
 
 
