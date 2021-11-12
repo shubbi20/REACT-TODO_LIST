@@ -34,7 +34,7 @@ setTaskarray((taskarray)=>{ return taskarray.filter((ele)=>{return ele!==element
         <div>
           <div className='heading'>TODO-LIST</div>
           <form className='formsec'>
-             <input type='text' className='textsec' value={text} onChange={changeText}/> 
+             <input type='text' className='textsec' value={text} placeholder='today task' onChange={changeText}/> 
              <input type='submit' className='textsubmit' value="ADD" onClick={submitTask} />
   
           </form>
