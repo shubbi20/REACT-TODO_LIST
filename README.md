@@ -1,3 +1,18 @@
+## Introduction
+this is a react todo app,You can create to-do lists where you can add list of tasks
+
+[![Site](https://img.shields.io/badge/Site_clickhere-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://to-dotask.netlify.app/)
+[![github:](https://img.shields.io/badge/my_github-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/shubbi20)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-negi-098041124/)
+## Technologies Used
+* React
+* JavaScript,CSS
+
+
+##ScreenShots
+![](https://github.com/shubbi20/REACT-TODO_LIST/blob/main/src/images/todo_desktop.JPG)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
